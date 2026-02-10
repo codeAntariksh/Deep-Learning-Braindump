@@ -1,0 +1,20 @@
+1. Data Acquisition
+a. From where would you acquire the data?
+
+2. Text Preparation
+a. What kind of cleaning steps would you perform? 
+b. What text preprocessing step would you apply? 
+c. Is advanced text preprocessing required?
+
+3. Feature Engineering
+a. What kind of features would you create?
+
+4. Modelling
+a. What algorithm would you use to solve the problem at hand? 
+b. What intrinsic evaluation metrics would you use? 
+c. What extrinsic evaluation metrics would you use?
+
+5. Deployment
+a. How would you deploy your solution into the entire product? 
+b. How and what things will you monitor? 
+c. What would be your model update strategy?
